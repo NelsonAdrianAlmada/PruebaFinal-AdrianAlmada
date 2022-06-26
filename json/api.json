@@ -1,0 +1,64 @@
+
+[
+    {
+    "id":1,
+    "nombre":"Tazas",
+    "precio": 900,
+    "imagen":"./imagenes/tazasPersonalizadas.jpeg"
+},
+{
+   "id":2,
+   "nombre":"Mueble antiguo",
+   "precio": 10900,
+   "imagen":"./imagenes/muebleAntiguoRestaurado.jpeg"
+},
+{
+   "id":3,
+   "nombre":"Azucarera",
+   "precio": 900,
+   "imagen":"./imagenes/azucarera.jpeg"
+},
+{
+   "id":4,
+   "nombre":"Tea for one",
+   "precio": 2000,
+   "imagen":"./imagenes/teaForOne.jpeg"
+},
+{
+   "id":5,
+   "nombre":"Centro de mesa",
+   "precio": 800,
+   "imagen":"./imagenes/centroDeMesaPintadoAMano1.jpeg"
+},
+{
+   "id":6,
+   "nombre":"Cuadros",
+   "precio": 1200,
+   "imagen":"./imagenes/cuadro1.jpeg"
+},
+{
+   "id":7,
+   "nombre":"Tazas para niños",
+   "precio": 600,
+   "imagen":"./imagenes/tazaInfantil1.jpeg"
+},
+{
+   "id":8,
+   "nombre":"Tazas bombe",
+   "precio": 900,
+   "imagen":"./imagenes/tazaBombe.jpeg"
+},
+{
+   "id":9,
+   "nombre":"Platos",
+   "precio": 1200,
+   "imagen":"./imagenes/platoPersonalizado.jpeg"
+},
+{
+   "id":10,
+   "nombre":"Juego de mate",
+   "precio": 2200,
+   "imagen":"./imagenes/juegoDeMate.jpeg"
+}
+]
+
